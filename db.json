@@ -1,0 +1,34 @@
+{
+    "todo": [
+      {
+        "id": 2,
+        "task": "learn HTML",
+        "status": false
+      },
+      {
+        "id": 3,
+        "task": "learn CSS",
+        "status": false
+      },
+      {
+        "id": 4,
+        "task": "learn React",
+        "status": false
+      },
+      {
+        "id": 5,
+        "task": "learn HTML",
+        "status": false
+      },
+      {
+        "id": 6,
+        "task": "learn CSS",
+        "status": false
+      },
+      {
+        "id": 7,
+        "task": "learn React",
+        "status": false
+      }
+    ]
+  }
